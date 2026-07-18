@@ -23,3 +23,12 @@ titulky pro hru
 Čeština mění pouze texty, nikoliv dabing.
 Po aktualizaci hry může být nutné češtinu znovu nainstalovat.
 Čeština je určena pouze pro EPIC verzi. Steam verze používá jiný jazykový systém.
+
+## 📸 Ukázky ze hry
+
+### 🦖 Hlavní menu hry
+![Menu](JWE3-screen 1.jpeg)
+
+### 🏞️ Ukázka ze hry
+![Gameplay](JWE3-screen 2.jpeg)
+
