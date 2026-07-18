@@ -27,8 +27,8 @@ Po aktualizaci hry může být nutné češtinu znovu nainstalovat.
 ## 📸 Ukázky ze hry
 
 ### 🦖 Hlavní menu hry
-![Menu](JWE3-screen 1.jpeg)
+![Menu](JWE3-screen 1.png)
 
 ### 🏞️ Ukázka ze hry
-![Gameplay](JWE3-screen 2.jpeg)
+![Gameplay](JWE3-screen 2.png)
 
